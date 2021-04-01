@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\DBConnection_Enterprise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\DBConnection_Enterprise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\DBConnection_Enterprise.csproj",
+        "projectName": "DBConnection_Enterprise",
+        "projectPath": "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\DBConnection_Enterprise.csproj",
+        "packagesPath": "C:\\Users\\lucas.batata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas.batata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itstransdata/_packaging/itstransdata/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "EnterpriseLibrary.Common": {
+              "target": "Package",
+              "version": "[6.0.1304, )"
+            },
+            "EnterpriseLibrary.Data": {
+              "target": "Package",
+              "version": "[6.0.1304, )"
+            },
+            "Transdatasmart.EnterpriseHelper": {
+              "target": "Package",
+              "version": "[1.0.0.11, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

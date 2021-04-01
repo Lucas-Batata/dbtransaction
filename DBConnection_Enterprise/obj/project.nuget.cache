@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lwZk6ilwViw6KPoJ2sTsdhPlaX7SsO9e9V+sP1kv2K9gwQhaKiEg3dE+1ixjGmYyRP2DP6nppP8PqlvwwQYSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.batata\\source\\repos\\DBConnection_Enterprise\\DBConnection_Enterprise\\DBConnection_Enterprise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.batata\\.nuget\\packages\\enterpriselibrary.common\\6.0.1304\\enterpriselibrary.common.6.0.1304.nupkg.sha512",
+    "C:\\Users\\lucas.batata\\.nuget\\packages\\enterpriselibrary.data\\6.0.1304\\enterpriselibrary.data.6.0.1304.nupkg.sha512",
+    "C:\\Users\\lucas.batata\\.nuget\\packages\\transdatasmart.enterprisehelper\\1.0.0.11\\transdatasmart.enterprisehelper.1.0.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

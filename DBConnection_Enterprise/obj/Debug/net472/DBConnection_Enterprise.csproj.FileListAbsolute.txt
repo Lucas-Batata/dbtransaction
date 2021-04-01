@@ -1,0 +1,13 @@
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\DBConnection_Enterprise.exe.config
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\DBConnection_Enterprise.exe
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\DBConnection_Enterprise.pdb
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\bin\Debug\net472\EnterpriseLib.dll
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.AssemblyInfoInputs.cache
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.AssemblyInfo.cs
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.csproj.CoreCompileInputs.cache
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.csproj.CopyComplete
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.exe
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.pdb
+C:\Users\lucas.batata\source\repos\DBConnection_Enterprise\DBConnection_Enterprise\obj\Debug\net472\DBConnection_Enterprise.csprojAssemblyReference.cache
